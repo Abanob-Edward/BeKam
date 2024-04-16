@@ -39,10 +39,8 @@ namespace Car_Price_prediction.view_model
         //public int Previous { get; set; }
         //public int Next { get; set; }
         public int PageCount()
-        {
-            
+        {            
             return Convert.ToInt32(Math.Ceiling(car_Data.Count() / (double)Sizepage));
-           
         }
         public int pagestart()
         {
@@ -86,11 +84,11 @@ namespace Car_Price_prediction.view_model
         
       
             public IEnumerable<car_detials_vm> Paginatedcar_data()
-              { 
+            { 
 
-              int start = ((CurrentPage - 1) * Sizepage);
-              return car_Data.OrderBy(cd => cd.ID).Skip(start).Take(Sizepage);        
-              }
+            int start = ((CurrentPage - 1) * Sizepage);
+            return car_Data.OrderBy(cd => cd.ID).Skip(start).Take(Sizepage);        
+            }
     }
 
 }

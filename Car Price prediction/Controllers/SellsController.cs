@@ -23,13 +23,13 @@ namespace Car_Price_prediction.Controllers
             var userID = User.Identity.GetUserId();
 
             AccountConstraints accountConstraints = new AccountConstraints();
-            var car_count =  accountConstraints.CarSellsCount(userID);
+   /*         var car_count = accountConstraints.CarSellsCount(userID); 
 
             if (User.IsInRole("Dealer") && car_count >= 15 || !User.IsInRole("Dealer") && car_count >= 2)
             {
                 throw new Exception("You have reached the limit of 20 car inserts for this month.");
                 //return View("LimitedInsert");
-            }
+            }*/
 
             var car_Brand = _context.Brands_Models.Select(c => c.Brand).Distinct().ToList();
             ViewBag.Brand = new MultiSelectList(car_Brand);
