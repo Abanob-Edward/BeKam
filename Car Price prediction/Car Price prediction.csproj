@@ -431,8 +431,29 @@
     <Content Include="img\brands\6-peugeot.png" />
     <Content Include="img\brands\7-tesla.png" />
     <Content Include="img\brands\8-toyota.png" />
+    <Content Include="img\Car_Image\009fe00c-3847-40f7-8053-fd7f7231bd91.jpg" />
+    <Content Include="img\Car_Image\037a6325-2952-42e7-9b27-f6595137cc28.jpg" />
+    <Content Include="img\Car_Image\089faf53-14ee-4307-9329-5411f767688a.jpg" />
+    <Content Include="img\Car_Image\08bf138a-954e-4bd4-bdae-e51485544aed.jpg" />
+    <Content Include="img\Car_Image\0b25884f-34da-4901-8b7b-9513ca0ddd19.jpg" />
+    <Content Include="img\Car_Image\11e7e2ad-076a-4e2e-b872-261a4561db56.jpg" />
+    <Content Include="img\Car_Image\1ea1a84c-2ef2-4558-a9a2-14a36720eb7f.jpg" />
     <Content Include="img\Car_Image\2015-Subaru-XV-Crosstrek-front_10206_032_1854x866_D4S_cropped-transformed.png" />
+    <Content Include="img\Car_Image\30a83202-68a7-4c73-b9e3-58ef69fd327c.jpg" />
+    <Content Include="img\Car_Image\3688720a-537a-414b-9367-ca8c620ea3a0.jpg" />
+    <Content Include="img\Car_Image\3769ca77-2a38-4ca1-8973-70109b9021c5.jpg" />
+    <Content Include="img\Car_Image\4562fa36-eed7-4481-929b-ba145efae0be.jpg" />
+    <Content Include="img\Car_Image\45952050-6120-45b8-aba4-77a94aefd73d.jpg" />
+    <Content Include="img\Car_Image\4a963672-95b3-4c1e-84d1-57ef51ccd515.jpg" />
+    <Content Include="img\Car_Image\5a6293ac-943d-4780-84e1-a9ef1ea34c06.jpg" />
     <Content Include="img\Car_Image\5be224ab-f907-4d70-8bc9-8df779fe4950.jpg" />
+    <Content Include="img\Car_Image\5e2f4779-fef2-4a23-94a8-125145d61899.jpg" />
+    <Content Include="img\Car_Image\60b7b323-d0dc-474a-9a43-6e9ce29fc025.jpg" />
+    <Content Include="img\Car_Image\66e2f606-d9b8-4b92-8515-c497da5ebb5a.jpg" />
+    <Content Include="img\Car_Image\6d99eef0-c157-486e-99ac-016cab1008ef.jpg" />
+    <Content Include="img\Car_Image\8856a5e9-442a-42d1-9c38-f8fc11382e49.jpg" />
+    <Content Include="img\Car_Image\8f2f2111-ff25-4222-9b78-bd6dfef64ad9.jpg" />
+    <Content Include="img\Car_Image\9b38e127-a8dc-4c2c-9fb8-50ceecf768ab.jpg" />
     <Content Include="img\Car_Image\acura cl 2002.png" />
     <Content Include="img\Car_Image\Acura ILX 2016.png" />
     <Content Include="img\Car_Image\Acura MDX 2015.png" />
@@ -441,6 +462,7 @@
     <Content Include="img\Car_Image\Acura RSX 2006.png" />
     <Content Include="img\Car_Image\Acura TL 2013.png" />
     <Content Include="img\Car_Image\Acura TSX 2014.png" />
+    <Content Include="img\Car_Image\adbfe771-0018-4c97-a592-0143fe24752f.jpg" />
     <Content Include="img\Car_Image\Aston Martin Rapide 2012.png" />
     <Content Include="img\Car_Image\Aston Martin V12 Vantage 2012.png" />
     <Content Include="img\Car_Image\Aston Martin Vanquish 2015.png" />
@@ -456,6 +478,10 @@
     <Content Include="img\Car_Image\Audi S6 2016.png" />
     <Content Include="img\Car_Image\Audi TTS 2015.png" />
     <Content Include="img\Car_Image\Audi V8 1992.png" />
+    <Content Include="img\Car_Image\audiq32022.png" />
+    <Content Include="img\Car_Image\b33a0240-3b92-4cd4-ad9c-3c2446ae6e3e.jpg" />
+    <Content Include="img\Car_Image\ba6994ce-e287-40ca-ab30-5342f98cef92.jpg" />
+    <Content Include="img\Car_Image\bb7e2218-dfa1-4a4d-a2ed-cef7736a1022.jpg" />
     <Content Include="img\Car_Image\Bentley Arnage 2009.png" />
     <Content Include="img\Car_Image\Bentley Continental 2003.png" />
     <Content Include="img\Car_Image\Bentley Continental Flying Spur Speed 2013.png" />
@@ -498,6 +524,7 @@
     <Content Include="img\Car_Image\byd f3 2021.png" />
     <Content Include="img\Car_Image\byd f3 2023.png" />
     <Content Include="img\Car_Image\byd l3 2016.png" />
+    <Content Include="img\Car_Image\c2cc8156-364e-46a0-b1dd-894a6116bbcd.jpg" />
     <Content Include="img\Car_Image\Cadillac ATS Coupe 2016.png" />
     <Content Include="img\Car_Image\Cadillac CTS 2015.png" />
     <Content Include="img\Car_Image\Cadillac CTS 2017.png" />
@@ -508,6 +535,7 @@
     <Content Include="img\Car_Image\Cadillac Escalade Hybrid 2013.png" />
     <Content Include="img\Car_Image\Cadillac SRX 2016.png" />
     <Content Include="img\Car_Image\Cadillac XLR-V 2008.png" />
+    <Content Include="img\Car_Image\cf6854bf-905d-4e63-b665-203a28834cee.jpg" />
     <Content Include="img\Car_Image\chana new star 2015.png" />
     <Content Include="img\Car_Image\chery arrizo 5 2021.png" />
     <Content Include="img\Car_Image\chery arrizo 5 2022.png" />
@@ -620,6 +648,7 @@
     <Content Include="img\Car_Image\Dodge Stealth 1994.png" />
     <Content Include="img\Car_Image\dodge stratus 2005.png" />
     <Content Include="img\Car_Image\download.jpg" />
+    <Content Include="img\Car_Image\e97b2d90-bf33-4daf-9f5c-6fa23d389975.jpg" />
     <Content Include="img\Car_Image\Ferrari 360 2003.png" />
     <Content Include="img\Car_Image\Ferrari 456M 2002.png" />
     <Content Include="img\Car_Image\Ferrari 550 2001.png" />
@@ -871,6 +900,7 @@
     <Content Include="img\Car_Image\Mazda MX-5 Miata 2015.png" />
     <Content Include="img\Car_Image\Mazda MX-5 Miata 2016.png" />
     <Content Include="img\Car_Image\Mazda Tribute 2010.png" />
+    <Content Include="img\Car_Image\mazda320171.jfif" />
     <Content Include="img\Car_Image\mercedes-benz 200 1976.png" />
     <Content Include="img\Car_Image\mercedes-benz 200 1984.png" />
     <Content Include="img\Car_Image\Mercedes-Benz 300-Class 1991.png" />
@@ -989,6 +1019,7 @@
     <Content Include="img\Car_Image\Nissan Versa Note 2017.png" />
     <Content Include="img\Car_Image\Nissan Xterra 2013.png" />
     <Content Include="img\Car_Image\Nissan Xterra 2014.png" />
+    <Content Include="img\Car_Image\NissanQashqai2022.jpg" />
     <Content Include="img\Car_Image\Oldsmobile Alero 2002.png" />
     <Content Include="img\Car_Image\Oldsmobile Alero 2003.png" />
     <Content Include="img\Car_Image\Oldsmobile Alero 2004.png" />
@@ -1218,16 +1249,32 @@
     <Content Include="img\Car_Image\Volvo V50 2010.png" />
     <Content Include="img\Car_Image\Volvo XC70 2014.png" />
     <Content Include="img\Car_Image\Volvo XC70 2016.png" />
+    <Content Include="img\Delear_background\204a0e09-7c54-410b-927c-48407626bb2e.jpg" />
+    <Content Include="img\Delear_background\30a83202-68a7-4c73-b9e3-58ef69fd327c.jpg" />
+    <Content Include="img\Delear_background\43028f48-6a5c-4b23-860c-68148248482a.jpg" />
+    <Content Include="img\Delear_background\5be224ab-f907-4d70-8bc9-8df779fe4950.jpg" />
     <Content Include="img\Delear_background\audi q3 2022.png" />
+    <Content Include="img\Delear_background\audiq32022.png" />
     <Content Include="img\Delear_background\cover image 300px.png" />
     <Content Include="img\Delear_background\cover image 400px.png" />
     <Content Include="img\Delear_background\coverimage400.png" />
+    <Content Include="img\Delear_background\coverimage400px.png" />
+    <Content Include="img\Delear_background\FiatTipo20211.png" />
+    <Content Include="img\Delear_background\mazda 3 2017 1.jfif" />
     <Content Include="img\Delear_background\Nissan Qashqai 2022.jpg" />
     <Content Include="img\Delear_background\profile-cover.jpg" />
+    <Content Include="img\Delear_logo\abba0972-8fdc-4b10-9b46-d5262afce810.jpg" />
     <Content Include="img\Delear_logo\add-photo.png" />
+    <Content Include="img\Delear_logo\bef82d62-0062-41ad-b5d5-1beb965414cf.jpg" />
+    <Content Include="img\Delear_logo\c2391692-5ec2-492b-80ea-31c47276dbf1.jpg" />
     <Content Include="img\Delear_logo\cover image 400px.png" />
+    <Content Include="img\Delear_logo\e7a519fb-2b21-40be-bca7-35a97f038e93.jpg" />
+    <Content Include="img\Delear_logo\FiatTipo20211.png" />
     <Content Include="img\Delear_logo\logo.png" />
+    <Content Include="img\Delear_logo\logo.svg" />
+    <Content Include="img\Delear_logo\NissanQashqai20222.jpg" />
     <Content Include="img\Delear_logo\T AUTO_Logo.jpg" />
+    <Content Include="img\Delear_logo\WhatsAppImage2023-06-20at12.43.35AM.jpeg" />
     <Content Include="img\Error.gif" />
     <Content Include="img\Footer\gallery-1.jpg" />
     <Content Include="img\Footer\gallery-2.jpg" />
@@ -1251,6 +1298,7 @@
     <Content Include="img\index.png" />
     <Content Include="img\Log%28in-up%29\login.png" />
     <Content Include="img\Log%28in-up%29\reg.png" />
+    <Content Include="img\login.png" />
     <Content Include="img\Logo\About.png" />
     <Content Include="img\Logo\addRole.png" />
     <Content Include="img\Logo\BussnesAccount.png" />
@@ -1269,6 +1317,7 @@
     <Content Include="img\Logo\USER_Accounts.png" />
     <Content Include="img\Log_reg\bg_log.jpg" />
     <Content Include="img\PngItem.png" />
+    <Content Include="img\reg.png" />
     <Content Include="img\UserCarForSell\177486.jpg" />
     <Content Include="img\UserCarForSell\28f8af43-6731-4726-9a33-e68d1b63f8d5.jpg" />
     <Content Include="img\UserCarForSell\5be224ab-f907-4d70-8bc9-8df779fe4950.jpg" />
@@ -1278,7 +1327,16 @@
     <Content Include="img\UserCarForSell\org_705f1591-bde5-49fc-8bc6-066c94ed5530.jpg" />
     <Content Include="img\UserCarForSell\org_c56e1603-52bb-4623-a599-887848d15279.jpg" />
     <Content Include="img\UserCarForSell\org_efa07258-e28c-469c-92f5-2fdf51acb938.jpg" />
+    <Content Include="img\User\CMLB3755.JPG" />
+    <Content Include="img\User\IMG_0077.JPG" />
+    <Content Include="img\User\IMG_0086.JPG" />
+    <Content Include="img\User\IMG_0273.JPG" />
+    <Content Include="img\User\IMG_0321.JPG" />
+    <Content Include="img\User\IMG_1994.JPG" />
     <Content Include="img\User\logo1.png" />
+    <Content Include="img\User_img\30a83202-68a7-4c73-b9e3-58ef69fd327c.jpg" />
+    <Content Include="img\User_img\abba0972-8fdc-4b10-9b46-d5262afce810.jpg" />
+    <Content Include="img\User_img\c2391692-5ec2-492b-80ea-31c47276dbf1.jpg" />
     <Content Include="img\User_img\cf07772b-9cb6-485a-a905-c2137dc9388a.jpg" />
     <Content Include="img\User_img\IMG_2387.JPG" />
     <Content Include="img\User_img\me.JPG" />
@@ -1315,6 +1373,9 @@
     <Content Include="Content\ej2\compatibility\fabric.scss" />
     <Content Include="Content\ej2\compatibility\bootstrap4.scss" />
     <Content Include="Content\ej2\compatibility\bootstrap.scss" />
+    <Content Include="img\Car_Image\desktop.ini" />
+    <Content Include="img\Delear_background\webp_listing_main_01.webp" />
+    <None Include="Properties\PublishProfiles\site3819-WebDeploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -1503,6 +1564,7 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202302162209327_step1.resx">
       <DependentUpon>202302162209327_step1.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202302162248433_test.resx">
       <DependentUpon>202302162248433_test.cs</DependentUpon>
